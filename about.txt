@@ -1,0 +1,6 @@
+This is a Sample application developed to understand the GIT commands and work flows.
+I hope it helps others as well.
+
+
+THanks
+Java Team.
